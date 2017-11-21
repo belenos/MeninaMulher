@@ -2,6 +2,6 @@
 
 Proposta de website para a ONG Casa Menina Mulher
 
-Preview: http://dev.belenos.me/menina_mulher/
+Preview: http://dev.belenos.me/cmmulher/
 
 Versão 0.1
